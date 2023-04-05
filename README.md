@@ -2,26 +2,35 @@
 <!-- <img align="center" alt="Its me" width= "400" src"https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif"> -->
 <h1 align="center">Hi, I'm Ashwani</h1>
 <h3 align="center">MERN STACK Developer | Real-time learner | Student at NIT KURUKSHETRA |</h3>
-<!-- <br><br><br> -->
-<!-- <img align="right" alt="Its me" width= "400" src"https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif"> -->
-
-<img align="right" alt="Coding" width="400" height ="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlZDg3ZjhkZjY2NjgzMWI3YjQxYjYxZjU3MGVkM2QwNWQ2YjJhMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<!-- <img align="right" alt="Coding" width="400" height ="500" src="https://gifer.com/TIbw"> -->
-<!-- <br><br><br> --><br>
-- 🌱Currently learning -- Computer Vision  |  Digital Image Proccessing
-<!-- <br><br> -->
-- 💬 Ask me about - Web Development 
-<!-- <br><br> -->
-<!-- - 📫 How to reach me **Insta : einstein._.there_** -->
-<!-- <br> -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="center">Connect with me:</h3> -->
+<p align="center">
 <a href="https://linkedin.com/in/ashwani singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwani singh" height="30" width="40" /></a>
 <a href="https://instagram.com/einstein-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="einstein-ash" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/einstein_ash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="einstein_ash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/einstein-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="einstein-ash" height="30" width="40" /></a>
 </p>
+<!-- <br><br><br> -->
+<!-- <img align="right" alt="Its me" width= "400" src"https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif"> -->
+
+<img align="right" alt="Coding" width="400" height ="410" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlZDg3ZjhkZjY2NjgzMWI3YjQxYjYxZjU3MGVkM2QwNWQ2YjJhMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<!-- <img align="right" alt="Coding" width="400" height ="500" src="https://gifer.com/TIbw"> -->
+<!-- <br><br><br> --><br>
+- 🌱Currently learning -- Computer Vision  |  Digital Image Proccessing
+<!-- <br><br> -->
+- 💬 Ask me about - Web Development
+- Everything : Parents :) 
+<!-- <br><br> -->
+<!-- - 📫 How to reach me **Insta : einstein._.there_** -->
+<!-- <br> -->
+<!-- connect with me  **********************************************-->
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashwani singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwani singh" height="30" width="40" /></a>
+<a href="https://instagram.com/einstein-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="einstein-ash" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/einstein_ash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="einstein_ash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/einstein-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="einstein-ash" height="30" width="40" /></a>
+</p> -->
 <!-- <br><br><br> -->
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +39,5 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einstein-ash&show_icons=true&locale=en&layout=compact" alt="einstein-ash" /></p> -->
 <!-- <br><br><br> -->
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einstein-ash&show_icons=true&locale=en" alt="einstein-ash" /></p>
