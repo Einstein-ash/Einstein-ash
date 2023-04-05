@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAErcRNYL-_WB8z_RRtTW1BYgSvSW-iTBL3HT3GyOsQ&usqp=CAU&ec=48665701)](https://rishavchanda.io) -->
 <!-- <img align="center" alt="Its me" width= "400" src"https://38.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif"> -->
 <h1 align="center">Hi, I'm Ashwani</h1>
-<h3 align="center">MERN STACK Developer | Real-time learner | Student at NIT KURUKSHETRA |</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MERN STACK Developer | Real-time learner | Student at NIT KURUKSHETRA |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <!-- <h3 align="center">Connect with me:</h3> -->
 <p align="center">
 <a href="https://linkedin.com/in/ashwani singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwani singh" height="30" width="40" /></a>
