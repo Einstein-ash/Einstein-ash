@@ -39,5 +39,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einstein-ash&show_icons=true&locale=en&layout=compact" alt="einstein-ash" /></p> -->
 <!-- <br><br><br> -->
-<br>
+<br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einstein-ash&show_icons=true&locale=en" alt="einstein-ash" /></p>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/Bottom.svg" alt="Github Stats" />
+</p>
