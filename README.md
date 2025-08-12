@@ -15,12 +15,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlZDg3ZjhkZjY2NjgzMWI3YjQxYjYxZjU3MGVkM2QwNWQ2YjJhMCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Student** at **NIT Kurukshetra**
-- 🌱 Currently exploring **Computer Vision** & **Digital Image Processing**
+- 🎓 **Studied** at **NIT Kurukshetra**
+- 🌱 Currently exploring **Next JS** & **Hardware-Robotics systems**
 - 💬 Ask me about **Web Development**
 - 🔭 Always working on something exciting!
 - 📚 Lifelong learner with a passion for technology
-- ⚡ Fun fact: Everything I know, I learned from my parents! 😄
 
 ## 🌐 Connect With Me
 
@@ -43,7 +42,6 @@
 
 ### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -56,7 +54,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
@@ -101,7 +98,6 @@
 
 <div align="center">
   <h2>⚡️ <i>Always On Work!</i> ⚡️</h2>
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House</p>
   
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/Bottom.svg" alt="Bottom Wave" width="100%"/>
 </div>
