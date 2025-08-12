@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi there, I'm Ashwani!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Real-time+Learner+%F0%9F%9A%80;NIT+Kurukshetra+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Real-time+Learner+%F0%9F%9A%80;NIT+Kurukshetra+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;" alt="Typing SVG" />
 </div>
 
 <p align="center">
